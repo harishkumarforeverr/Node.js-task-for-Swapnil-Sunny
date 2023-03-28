@@ -1,0 +1,62 @@
+[
+    {
+        "module": "Dashboard",
+        "routes": [
+            {
+                "route": "/dashboard",
+                "permission": "read"
+            }
+        ]
+    },
+    {
+        "module": "Events",
+        "routes": [
+            {
+                "route": "/events/allevents",
+                "permission": "read"
+            }
+        ]
+    },
+    {
+        "module": "Cohorts",
+        "routes": [
+            {
+                "route": "/cohorts/list",
+                "permission": "read"
+            },
+            {
+                "route": "/cohorts/edit/:id",
+                "permission": "write"
+            },
+            {
+                "route": "/cohorts/users/:id",
+                "permission": "read"
+            },
+            {
+                "route": "/cohorts/create",
+                "permission": "write"
+            }
+        ]
+    },
+    {
+        "module": "Funnel",
+        "routes": [
+            {
+                "route": "/funnel/list",
+                "permission": "read"
+            },
+            {
+                "route": "/funnel/edit/:id",
+                "permission": "write"
+            },
+            {
+                "route": "/funnel/users/:id",
+                "permission": "read"
+            },
+            {
+                "route": "/funnel/create",
+                "permission": "write"
+            }
+        ]
+    }
+]

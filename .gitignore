@@ -1,0 +1,15 @@
+node_modules
+package-lock.json
+public
+views
+dist
+uploads
+.env
+.nvmrc
+logs
+pouch
+nedb_data
+prod.env
+.scannerwork
+test
+scriptTest

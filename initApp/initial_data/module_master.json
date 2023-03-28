@@ -1,0 +1,17 @@
+[
+    {
+        "module_name": "Dashboard"
+    },
+    {
+        "module_name": "Campaign"
+    },
+    {
+        "module_name": "Funnel"
+    },
+    {
+        "module_name": "Events"
+    },
+    {
+        "module_name": "Cohorts"
+    }
+]

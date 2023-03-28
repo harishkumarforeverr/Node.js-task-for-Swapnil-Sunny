@@ -1,0 +1,32 @@
+[
+    {
+        "route_name": "/dashboard"
+    },
+    {
+        "route_name": "/events/allevents"
+    },
+    {
+        "route_name": "/cohorts/list"
+    },
+    {
+        "route_name": "/cohorts/edit/:id"
+    },
+    {
+        "route_name": "/cohorts/create"
+    },
+    {
+        "route_name": "/cohorts/users/:id"
+    },
+    {
+        "route_name": "/funnel/list"
+    },
+    {
+        "route_name": "/funnel/edit/:id"
+    },
+    {
+        "route_name": "/funnel/create"
+    },
+    {
+        "route_name": "/funnel/users/:id"
+    }
+]

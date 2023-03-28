@@ -1,0 +1,102 @@
+[
+    {
+        "sg_name": "Event Time",
+        "type": "DateTime",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Country",
+        "type": "String",
+        "category": "Location"
+    },
+    {
+        "sg_name": "City",
+        "type": "String",
+        "category": "Location"
+    },
+    {
+        "sg_name": "Browser Name",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "OS Name",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "Device Manufacturer",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "Device Model",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "Carrier",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "App Version",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "App ID",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "Platform",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "Channel",
+        "type": "String",
+        "category": "Device"
+    },
+    {
+        "sg_name": "Page URL",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Screen Name",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Campaign Source",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Campaign Medium",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Campaign Name",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Campaign ID",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Variation ID",
+        "type": "String",
+        "category": "Detail"
+    },
+    {
+        "sg_name": "Journey ID",
+        "type": "String",
+        "category": "Detail"
+    }
+]

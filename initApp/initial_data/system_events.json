@@ -1,0 +1,262 @@
+[
+    {
+        "name": "App Installed",
+        "key": "app_installed"
+    },
+    {
+        "name": "App Upgraded",
+        "key": "app_upgraded"
+    },
+    {
+        "name": "App Crashed",
+        "key": "app_crashed"
+    },
+    {
+        "name": "App Uninstalled",
+        "key": "app_uninstalled"
+    },
+    {
+        "name": "User Login",
+        "key": "user_logged_in"
+    },
+    {
+        "name": "User Logout",
+        "key": "user_logged_out"
+    },
+    {
+        "name": "Session Started",
+        "key": "user_session_started"
+    },
+    {
+        "name": "Campaign Conversion",
+        "key": "goal_accomplish"
+    },
+    {
+        "name": "GCM/APNs Registered",
+        "key": "gcm_registered"
+    },
+    {
+        "name": "APNs Registration Failed",
+        "key": "apns_registration_failed"
+    },
+    {
+        "name": "Push (Mobile) Sent",
+        "key": "gcm_notification_response"
+    },
+    {
+        "name": "Push (Web & Mobile) Queued",
+        "key": "push_notification_queued"
+    },
+    {
+        "name": "Push (Web) Accepted",
+        "key": "push_notification_accepted"
+    },
+    {
+        "name": "Push (Web & Mobile) Rejected",
+        "key": "push_notification_rejected"
+    },
+    {
+        "name": "Push (Mobile) Received",
+        "key": "push_notification_received"
+    },
+    {
+        "name": "Push (Web & Mobile) Dismiss",
+        "key": "push_notification_close"
+    },
+    {
+        "name": "Push (Web & Mobile) Impression",
+        "key": "push_notification_view"
+    },
+    {
+        "name": "Push (Web & Mobile) Click",
+        "key": "push_notification_click"
+    },
+    {
+        "name": "Push (Mobile) Rating Submitted",
+        "key": "push_notification_rating_submitted"
+    },
+    {
+        "name": "Push (Mobile) Carousel Item Viewed",
+        "key": "push_notification_item_view"
+    },
+    {
+        "name": "Notification (On-site & In-app) Impression",
+        "key": "notification_view"
+    },
+    {
+        "name": "Notification (On-site & In-app) Close",
+        "key": "notification_close"
+    },
+    {
+        "name": "Notification (On-site & In-app) Click",
+        "key": "notification_click"
+    },
+    {
+        "name": "On-site Feedback View",
+        "key": "feedback_view"
+    },
+    {
+        "name": "On-site Feedback Close",
+        "key": "feedback_close"
+    },
+    {
+        "name": "On-site Feedback Submit",
+        "key": "feedback_submit"
+    },
+    {
+        "name": "On-site Survey View",
+        "key": "survey_view"
+    },
+    {
+        "name": "On-site Survey Close",
+        "key": "survey_close"
+    },
+    {
+        "name": "On-site Survey Complete",
+        "key": "survey_complete"
+    },
+    {
+        "name": "On-site Survey Submit",
+        "key": "survey_submit"
+    },
+    {
+        "name": "SMS Queued",
+        "key": "sms_queued"
+    },
+    {
+        "name": "SMS Accepted",
+        "key": "sms_accepted"
+    },
+    {
+        "name": "SMS Rejected",
+        "key": "sms_rejected"
+    },
+    {
+        "name": "SMS Sent",
+        "key": "sms_sent"
+    },
+    {
+        "name": "SMS Failed",
+        "key": "sms_failed"
+    },
+    {
+        "name": "SMS Click",
+        "key": "sms_click"
+    },
+    {
+        "name": "Email Queued",
+        "key": "email_queued"
+    },
+    {
+        "name": "Email Accepted",
+        "key": "email_accepted"
+    },
+    {
+        "name": "Email Rejected",
+        "key": "email_rejected"
+    },
+    {
+        "name": "Email Processed",
+        "key": "email_processed"
+    },
+    {
+        "name": "Email Sent",
+        "key": "email_sent"
+    },
+    {
+        "name": "Email Bounced",
+        "key": "email_bounce"
+    },
+    {
+        "name": "Email Delivered",
+        "key": "email_delivered"
+    },
+    {
+        "name": "Email Complaint",
+        "key": "email_complaint"
+    },
+    {
+        "name": "Email Abuse Report",
+        "key": "email_abusereport"
+    },
+    {
+        "name": "Email Resubscribe",
+        "key": "email_resubscribe"
+    },
+    {
+        "name": "Email Unsubscribe",
+        "key": "email_unsubscribe"
+    },
+    {
+        "name": "Email Spam Report",
+        "key": "email_spam"
+    },
+    {
+        "name": "Email Open",
+        "key": "email_open"
+    },
+    {
+        "name": "Email Click",
+        "key": "email_click"
+    },
+    {
+        "name": "Push (Web) Registered",
+        "key": "push_notification_registered"
+    },
+    {
+        "name": "Push (Web) Unregistered",
+        "key": "push_notification_unregistered"
+    },
+    {
+        "name": "Web Push Subscribe Viewed",
+        "key": "push_notification_window_view"
+    },
+    {
+        "name": "Web Push Subscribe Denied",
+        "key": "push_notification_window_denied"
+    },
+    {
+        "name": "Web Push Subscribe Successful",
+        "key": "push_notification_window_allowed"
+    },
+    {
+        "name": "Web Push Subscribe Notification Viewed",
+        "key": "push_notification_prompt_view"
+    },
+    {
+        "name": "Web Push Subscribe Notification Denied",
+        "key": "push_notification_prompt_denied"
+    },
+    {
+        "name": "Web Push Subscribe Notification Allowed",
+        "key": "push_notification_prompt_allowed"
+    },
+    {
+        "name": "WhatsApp Sent",
+        "key": "whatsapp_sent"
+    },
+    {
+        "name": "WhatsApp Accepted",
+        "key": "whatsapp_accepted"
+    },
+    {
+        "name": "WhatsApp Rejected",
+        "key": "whatsapp_rejected"
+    },
+    {
+        "name": "WhatsApp Failed",
+        "key": "whatsapp_failed"
+    },
+    {
+        "name": "WhatsApp Read",
+        "key": "whatsapp_read"
+    },
+    {
+        "name": "WhatsApp Click",
+        "key": "whatsapp_click"
+    },
+    {
+        "name": "WhatsApp Queued",
+        "key": "whatsapp_queued"
+    }
+]

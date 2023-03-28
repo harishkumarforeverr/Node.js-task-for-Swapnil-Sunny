@@ -1,0 +1,34 @@
+[
+    {
+        "cronFor": "campaign",
+        "minutes": "*",
+        "hour": "*",
+        "day_of_month": "*",
+        "month": "*",
+        "week_day": "*"
+    },
+    {
+        "cronFor": "cohort",
+        "minutes": "35",
+        "hour": "*",
+        "day_of_month": "*",
+        "month": "*",
+        "week_day": "*"
+    },
+    {
+        "cronFor": "silent_push",
+        "minutes": "30",
+        "hour": "6",
+        "day_of_month": "*",
+        "month": "*",
+        "week_day": "0"
+    },
+    {
+        "cronFor": "campaign_send",
+        "minutes": "*",
+        "hour": "*",
+        "day_of_month": "*",
+        "month": "*",
+        "week_day": "*"
+    }
+]

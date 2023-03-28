@@ -1,0 +1,266 @@
+[
+    {
+        "key": "user_id",
+        "isPII": false,
+        "name": "User Id",
+        "description": "CUID / User ID",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "first_name",
+        "isPII": true,
+        "name": "First Name",
+        "description": "",
+        "type": "system",
+        "section": "contact"
+    },
+    {
+        "key": "last_name",
+        "isPII": true,
+        "name": "Last Name",
+        "description": "",
+        "type": "system",
+        "section": "contact"
+    },
+    {
+        "key": "birth_date",
+        "isPII": true,
+        "name": "Birth Date",
+        "description": "",
+        "type": "system",
+        "section": "system"
+    },
+    {
+        "key": "gender",
+        "isPII": true,
+        "name": "Gender",
+        "description": "",
+        "type": "system",
+        "section": "system"
+    },
+    {
+        "key": "company",
+        "isPII": false,
+        "name": "Company",
+        "description": "",
+        "type": "system",
+        "section": "system"
+    },
+    {
+        "key": "country",
+        "isPII": true,
+        "name": "Country",
+        "description": "",
+        "type": "system",
+        "section": "location"
+    },
+    {
+        "key": "city",
+        "isPII": true,
+        "name": "City",
+        "description": "",
+        "type": "system",
+        "section": "location"
+    },
+    {
+        "key": "region",
+        "isPII": true,
+        "name": "Region",
+        "description": "",
+        "type": "system",
+        "section": "location"
+    },
+    {
+        "key": "locality",
+        "isPII": true,
+        "name": "Locality",
+        "description": "",
+        "type": "system",
+        "section": "location"
+    },
+    {
+        "key": "postal_code",
+        "isPII": true,
+        "name": "Postal Code",
+        "description": "",
+        "type": "system",
+        "section": "location"
+    },
+    {
+        "key": "email",
+        "isPII": true,
+        "name": "Email",
+        "description": "",
+        "type": "system",
+        "section": "contact"
+    },
+    {
+        "key": "phone",
+        "isPII": true,
+        "name": "Phone",
+        "description": "",
+        "type": "system",
+        "section": "contact"
+    },
+    {
+        "key": "hashed_email",
+        "isPII": true,
+        "name": "Hashed Email",
+        "description": "",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "hashed_phone",
+        "isPII": true,
+        "name": "Hashed Phone",
+        "description": "",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "email_opt_in",
+        "isPII": false,
+        "name": "Email Opt In",
+        "description": "",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "sms_opt_in",
+        "isPII": false,
+        "name": "SMS Opt In",
+        "description": "",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "push_opt_in",
+        "isPII": false,
+        "name": "Push Opt In",
+        "description": "",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "whatsapp_opt_in",
+        "isPII": false,
+        "name": "WhatsApp Opt In",
+        "description": "",
+        "type": "system",
+        "section": ""
+    },
+    {
+        "key": "last_seen",
+        "isPII": false,
+        "name": "Last Seen",
+        "description": "",
+        "type": "system",
+        "section": "activity"
+    },
+    {
+        "key": "timestamp",
+        "isPII": false,
+        "name": "Timestamp",
+        "description": "",
+        "type": "system",
+        "section": "activity"
+    },
+    {
+        "key": "total_sessions",
+        "isPII": false,
+        "name": "Total Sessions",
+        "description": "",
+        "type": "system",
+        "section": "activity"
+    },
+    {
+        "key": "total_time",
+        "isPII": false,
+        "name": "Total Time",
+        "description": "",
+        "type": "system",
+        "section": "activity"
+    },
+    {
+        "key": "channel",
+        "isPII": false,
+        "name": "Channel",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "campaign_name",
+        "isPII": false,
+        "name": "Campaign Name",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "campaign_source",
+        "isPII": false,
+        "name": "Campaign Source",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "campaign_medium",
+        "isPII": false,
+        "name": "Campaign Medium",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "referrer_host",
+        "isPII": false,
+        "name": "Referrer Host",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "referrer_url",
+        "isPII": false,
+        "name": "Referrer Url",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "landing_page",
+        "isPII": false,
+        "name": "Landing Page",
+        "description": "",
+        "type": "system",
+        "section": "first_acquisition"
+    },
+    {
+        "key": "custom_attribute_1",
+        "isPII": false,
+        "name": "Custom Attribute 1",
+        "description": "",
+        "type": "",
+        "section": ""
+    },
+    {
+        "key": "custom_attribute_2",
+        "isPII": false,
+        "name": "Custom Attribute 2",
+        "description": "",
+        "type": "",
+        "section": ""
+    },
+    {
+        "key": "custom_attribute_3",
+        "isPII": false,
+        "name": "Custom Attribute 3",
+        "description": "",
+        "type": "",
+        "section": ""
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "role_name" : "Super Admin",
+    "role_description" : "Super Admin",
+    "status" : "active",
+    "permissions" : {
+        "Dashboard" : {
+            "read" : true,
+            "write" : true,
+            "edit" : true
+        },
+        "Funnel": {
+            "read" : true,
+            "write" : true,
+            "edit" : true
+        },
+        "Campaign" : {
+            "read" : true,
+            "write" : true,
+            "edit" : true
+        },
+        "Events" : {
+            "read" : true,
+            "write" : true,
+            "edit" : true
+        },
+        "Cohorts" : {
+            "read" : true,
+            "write" : true,
+            "edit" : true
+        }
+    }
+}
